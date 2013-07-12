@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Rachel Codes]]></title>
+  <link href="http://rach7110.github.io/atom.xml" rel="self"/>
+  <link href="http://rach7110.github.io/"/>
+  <updated>2013-07-12T10:08:17-05:00</updated>
+  <id>http://rach7110.github.io/</id>
+  <author>
+    <name><![CDATA[Rachel Loziuk]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hi, I'm a blog post]]></title>
+    <link href="http://rach7110.github.io/blog/2013/07/12/hi-im-a-blog-post/"/>
+    <updated>2013-07-12T09:56:00-05:00</updated>
+    <id>http://rach7110.github.io/blog/2013/07/12/hi-im-a-blog-post</id>
+    <content type="html"><![CDATA[<h1>This is a header</h1>
+
+<p>This text is <strong>bold</strong>. This text is <em>something</em>.</p>
+
+<ul>
+<li>This</li>
+<li>is</li>
+<li>a</li>
+<li>list</li>
+</ul>
+
+
+<figure class='code'> <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+</pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="k">class</span> <span class="nc">Dog</span>
+</span><span class='line'>  <span class="k">def</span> <span class="nf">bark</span>
+</span><span class='line'>    <span class="nb">puts</span> <span class="s2">&quot;hello&quot;</span>
+</span><span class='line'>  <span class="k">end</span>
+</span><span class='line'><span class="k">end</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+
+
+<div><script src='https://gist.github.com/5985171.js'></script>
+<noscript><pre><code></code></pre></noscript></div>
+
+]]></content>
+  </entry>
+  
+</feed>
